@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: #265480;
+}
+
+div span a{
+    background-color: #004280;
+}
+
+div a{
+            text-decoration: none;
+            background-color: #4DA9FF;
+            color: rgb(8, 1, 1);
+            border: 2px solid black;
+            border-radius: 3px;
+            padding: 5px 10px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+}
+
+a:hover {
+    background-color: #0084FF;
+    color: black;
+}
